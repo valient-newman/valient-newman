@@ -6,4 +6,4 @@
 - 👀 I’m interested in Ethereum, Delpherium, computer forensics
 - 🌱 I’m currently learning programming in cryptocurrency
 - 💞️ I’m looking to collaborate with those with similar interests
-- 📫 The e-mail to reach me is <valient.newman@proton.me>
+- 📫 The e-mail to reach me is <valient.newmanATproton.me>
